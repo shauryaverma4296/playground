@@ -1,0 +1,33 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "For Interview and practise purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shauryaverma4296/playground.git"
+  },
+  "keywords": [
+    "Javascript",
+    "ELM",
+    "Elixir",
+    "Phoenix",
+    "Interview"
+  ],
+  "author": "Shaurya Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shauryaverma4296/playground/issues"
+  },
+  "homepage": "https://github.com/shauryaverma4296/playground#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.15.0"
+  }
+}
